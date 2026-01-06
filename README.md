@@ -47,6 +47,6 @@ In display filter type "icmp" in Ethernet display. Obtain private IP address of 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Within Windows Powershell type "ping" followed by private IP of second VM. Observe icmp traffic within "Wireshark".
+  Within Windows Powershell type "ping" followed by private IP of second VM then press "enter". Observe icmp traffic within "Wireshark".
 </p>
 <br />
