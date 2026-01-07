@@ -28,8 +28,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 <h2>Tutorial (Detailed)</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/main/image0%20(21).jpeg?raw=true)
 <p>
 Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP address of first virtual machine and access it via remote desktop. Access "Wireshark" application within virtual machine and observe "Ethernet" traffic in app.
 </p>
