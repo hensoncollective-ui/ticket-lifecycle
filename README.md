@@ -1,6 +1,6 @@
 # IT Project: How to ping between VMs
 <p align="center">
-<img//media-app/4a5c8d90-80ee-4f0a-85b7-30df165b0e07>
+<img//blob:chrome-untrusted://media-app/4a5c8d90-80ee-4f0a-85b7-30df165b0e07 
 </p>
 
 <h1>Microsoft Azure - IT Diagnostic Basics: How to Ping between IP addresses (with VM as an example) </h1>
