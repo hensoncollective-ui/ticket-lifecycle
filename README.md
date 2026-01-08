@@ -1,7 +1,6 @@
 # IT Project: How to ping between VMs
-<p align="center">
-<img//blob:chrome-untrusted://media-app/4a5c8d90-80ee-4f0a-85b7-30df165b0e07 
-</p>
+
+![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/29d60353ba800a67a640d2acb4e86c619078aac6/Screenshot%202026-01-08%201.08.23%20AM.png)
 
 <h1>Microsoft Azure - IT Diagnostic Basics: How to Ping between IP addresses (with VM as an example) </h1>
 This tutorial shows begginers in the IT world how to ping between virtual machines using "Wireshark" as a medium.<br />
