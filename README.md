@@ -53,9 +53,9 @@ STEP 4: Within Wireshark access Ethernet interface to view traffic on network. I
 
 [Accessing Windows Powershell to ping between Windows & Linux Virtual Machine](https://youtu.be/q6iMjC4ybwg?si=8opK9wVxmSjgHCdl)
 
-STEP 5: Within Windows virtual machine (WOLFTWO) access Windows Powershell application. On command console type "ping" followed by the private IP address of Linux Virtual Machine (FOXTWO). press "enter" key and observe ethernet traffic within Wireshark with "icmp" inside display filter applied. You should see traffic between both virtual machines only.
+STEP 5: Within Windows virtual machine (WOLFTWO) access Windows Powershell application. On command console type "ping" followed by the private IP address of Linux Virtual Machine (FOXTWO). press "enter" key and observe ethernet traffic within Wireshark with "icmp" inside display filter applied. You should see traffic between both virtual machines only. (LINK ABOVE)
 
 [Close out Remote Desktop Connection](https://youtu.be/Kfh_UIpGGjQ?si=mZvSQwUgLWiid85S)
 
-STEP 6: Close out remote desktop connection and return to Microsoft Azure. Deactivate Virtual Machines (if necessary).
+STEP 6: Close out remote desktop connection and return to Microsoft Azure. Deactivate Virtual Machines (if necessary). (LINK ABOVE)
 <br />
