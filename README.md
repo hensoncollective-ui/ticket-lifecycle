@@ -33,13 +33,13 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 [Creating Virtual Machines in Microsoft Azure](https://youtu.be/A_GV7h9aEAU?si=1OoYmuaLEXloH32I)
 
-STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network and choose proper "Image" choosing either a Windows model or Ubuntu (for Linux). Set Password access(Optional for security purposes). Obtain Public IP and Private IP of both. (ABOVE)
+STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network and choose proper "Image" choosing either a Windows model or Ubuntu (for Linux). Set Password access(Optional for security purposes). Obtain Public IP and Private IP of both. (LINK ABOVE)
 </p>
 <br />
 
 [Accessing Windows Virtual Machine via Remote Desktop](https://youtu.be/t8guR79pr-s?si=J_re5wnz8rZt3p-N)
 
-STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public IP address and insert login info with password guidelines setup in Virtual machine creation process. (ABOVE)
+STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public IP address and insert login info with password guidelines setup in Virtual machine creation process. (LINK ABOVE)
 </p>
 <br />
 
@@ -49,5 +49,5 @@ STEP 3: After accessing Windows Virtual Machine (WOLFTWO), open browser and navi
 
 [Accessing and Observing Ethernet Traffic within Wireshark](https://youtu.be/74HQrzIbYUs?si=ehI27kLov4AFt0Jg)
 
-STEP 4: Within Wireshark access Ethernet interface to view traffic on network. In the display filter type "icmp" and press enter, as we will use this filter to observe the ping results between Windows Virtual Machine (WOLFTWO) and Linux Virtual Machine's (FOXTWO) later using the latters Private IP address within Windows Powershell.
+STEP 4: Within Wireshark access Ethernet interface to view traffic on network. In the display filter type "icmp" and press enter, as we will use this filter to observe the ping results between Windows Virtual Machine (WOLFTWO) and Linux Virtual Machine's (FOXTWO) later using the latters Private IP address within Windows Powershell. (LINK ABOVE)
 <br />
