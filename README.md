@@ -31,15 +31,15 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 <h2>Tutorial (with photos and video)</h2>
 
-[Creating Virtual Machines in Microsoft Azure]((https://youtu.be/A_GV7h9aEAU?si=1OoYmuaLEXloH32I)
+[Creating Virtual Machines in Microsoft Azure](https://youtu.be/A_GV7h9aEAU?si=1OoYmuaLEXloH32I)
 
-STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network. Obtain Public IP and Private IP of both.
+STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network and choose proper "Image" choosing either a Windows model or Ubuntu (for Linux). Set Password access(Optional for security purposes). Obtain Public IP and Private IP of both. (ABOVE)
 </p>
 <br />
 
-![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/e8417f6972455560e15d3191f5e5477f88edf743/image2%20(4).jpeg)
+[Accessing Windows Virtual Machine via Remote Desktop](https://youtu.be/t8guR79pr-s?si=J_re5wnz8rZt3p-N)
 
-STEP 2: In display filter type "icmp" in Ethernet display. Obtain private IP address of second virtual machine(Linux) and open Windows Powershell inside of remote desktop of Windows virtual machine.
+STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop and insert login info with password guidelines setup in Virtual machine creation process. (ABOVE)
 </p>
 <br />
 
