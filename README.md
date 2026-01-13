@@ -45,6 +45,5 @@ STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/cea7667b4c18d6fd952aaa533b645bc22257bb77/image0%20(20).jpeg)
  
-STEP 3: Within Windows Powershell type "ping" followed by private IP of second virtual machine (linux) then press "enter". Observe ICMP traffic within "Wireshark". You should be able to see traffic between your Windows and Linux Virtual machine when done correctly 
-</p>
+STEP 3: After accessing Windows Virtual Machine (WOLFTWO), open browser and navigate to (https://www.wireshark.org) and install Wireshark application within remote desktop. 
 <br />
