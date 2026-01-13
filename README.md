@@ -31,7 +31,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 <h2>Tutorial (with photos and video)</h2>
 
-![ALT TEXT HERE]((https://youtu.be/A_GV7h9aEAU?si=1OoYmuaLEXloH32I)
+[Creating Virtual Machines in Microsoft Azure]((https://youtu.be/A_GV7h9aEAU?si=1OoYmuaLEXloH32I)
 
 STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network. Obtain Public IP and Private IP of both.
 </p>
