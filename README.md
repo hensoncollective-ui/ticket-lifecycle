@@ -46,4 +46,8 @@ STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/30e7e568ea156b0caa3c7a36afc6d9dc824f7038/image0%20(22).jpeg) 
 
 STEP 3: After accessing Windows Virtual Machine (WOLFTWO), open browser and navigate to (https://www.wireshark.org) and install Wireshark application within remote desktop. Open Wireshark after installation. 
+
+[Accessing and Observing Ethernet Traffic within Wireshark](https://youtu.be/74HQrzIbYUs?si=ehI27kLov4AFt0Jg)
+
+STEP 4: Within Wireshark access Ethernet interface to view traffic on network. In the display filter type "icmp" and press enter, as we will use this filter to observe the ping results between Windows Virtual Machine (WOLFTWO) and Linux Virtual Machine's (FOXTWO) later using the latters Private IP address within Windows Powershell.
 <br />
